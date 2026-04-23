@@ -36,9 +36,9 @@ Ich entwickle Backend-Systeme, Full-Stack-Webanwendungen und KI-Lösungen.
 | Projekt | Beschreibung | Stack |
 |---------|-------------|-------|
 | [OrgelProjekt](https://github.com/HoudaElAbbassi/OrgelProjekt) | Echtzeit-Erkennung gedrückter Orgeltasten per Kamera & Computer Vision → MIDI-Output | Python, OpenCV, MIDI |
-| [KahootAlternative](https://github.com/HoudaElAbbassi/KahootAlternative) | Real-Time Quiz-App für 60+ Spieler gleichzeitig | Node.js, Socket.io, React |
+| [quizbattle-realtime](https://github.com/HoudaElAbbassi/quizbattle-realtime) | Real-Time Quiz-App für 60+ Spieler gleichzeitig | Node.js, Socket.io, React |
 | [praxis-terminbuchung](https://github.com/HoudaElAbbassi/praxis-terminbuchung) | Online-Terminbuchung für Arztpraxen | Next.js, TypeScript, PostgreSQL, Prisma |
-| [ai-drone-ws2526](https://github.com/HoudaElAbbassi/ai-drone-ws2526) | KI-gestützte FPV-Drohne zur Gebäudeinspektion (Masterprojekt) | Python, KI/ML |
+| [ai-structural-inspection-drone](https://github.com/HoudaElAbbassi/ai-structural-inspection-drone) | KI-gestützte FPV-Drohne zur Gebäudeinspektion (Masterprojekt) | Python, KI/ML |
 | [PhishingMailErkennung](https://github.com/HoudaElAbbassi/PhishingMailErkennungCyberSec) | Echtzeiterkennung von Phishing-Mails mit LLM & LoRA | Python, Transformers, LoRA |
 
 ---
